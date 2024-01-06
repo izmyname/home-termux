@@ -1,0 +1,13 @@
+ctrl+b+c - new window
+
+ctrl+b+% - split h
+
+ctrl+b+" - split V
+
+ctrl+b+(0-9) - switch beteeen windows
+
+ctrl+b+, - rename current window
+
+ctrl+b+p/n - previous/next window
+
+ctrl+b+l toggle last active window
