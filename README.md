@@ -6,6 +6,6 @@
 
 3. run: termux-setup-storage
 
-4. Restore backup archive
+4. Restore backup archive, run: termux-restore /path/to/the/archive.tar.gz
 
 5. copy the contents of this repo
