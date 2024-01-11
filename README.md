@@ -2,7 +2,7 @@
 
 1.Install F-Droid first.
 
-2. From F-Droid: Termux, Termux:API, Termux:Widget, Termux:Styling
+2. From F-Droid: Termux, Termux:API, Termux:Widget, Termux:Styling, Termux:Boot
 
 3. run: termux-setup-storage
 
