@@ -18,7 +18,7 @@
     "dht-enabled": true,
     "download-dir": "/data/data/com.termux/files/home/Downloads",
     "download-queue-enabled": true,
-    "download-queue-size": 5,
+    "download-queue-size": 3,
     "encryption": 1,
     "idle-seeding-limit": 30,
     "idle-seeding-limit-enabled": false,
@@ -74,5 +74,7 @@
     "trash-original-torrent-files": true,
     "umask": "022",
     "upload-slots-per-torrent": 8,
-    "utp-enabled": true
+    "utp-enabled": true,
+    "watch-dir": "/data/data/com.termux/files/home/Downloads",
+    "watch-dir-enabled": true
 }
