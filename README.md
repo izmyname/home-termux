@@ -4,6 +4,9 @@
 
 2. From F-Droid: Termux, Termux:API, Termux:Widget, Termux:Styling, Termux:Boot
 
+Set phone battery usage to 'no restrictions' in android app settings for each termux app, that has this option.
+
+
 3. run: termux-setup-storage
 
 4. Restore backup archive, run: termux-restore /path/to/the/archive.tar.gz
