@@ -2,7 +2,6 @@
 zstyle ':completion:*' completer _complete _ignored
 zstyle ':completion:*' max-errors 3
 zstyle ':completion:*' menu select
-zstyle :compinstall filename '/data/data/com.termux/files/home/.zshrc'
 autoload -Uz compinit
 compinit -d '/data/data/com.termux/files/home/.cache/zcompdump'
 HISTFILE='/data/data/com.termux/files/home/.cache/zhistfile'
