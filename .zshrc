@@ -10,15 +10,18 @@ SAVEHIST=500
 setopt autocd extendedglob notify correct
 unsetopt beep
 bindkey -v
+autoload -U colors && colors
+PS1="%{$fg[green]%}%D{%a %d %b} %D{%H:%M} %{$reset_color%}%{$fg[red]%}zsh%{$reset_color%} %{$fg[blue]%}%~ %{$reset_color%}%{$fg[green]%}>%{$reset_color%}% "
+
+
+
+#base commands	
 alias "ls=ls --color=auto"
 alias "grep=grep --color=auto"
 alias cal='cal -m'
 alias df='df -h /storage/emulated'
 alias free='free -h'
 alias du='du -h'
-autoload -U colors && colors
-PS1="%{$fg[green]%}%D{%a %d %b} %D{%H:%M} %{$reset_color%}%{$fg[red]%}zsh%{$reset_color%} %{$fg[blue]%}%~ %{$reset_color%}%{$fg[green]%}>%{$reset_color%}% "
-
 
 #neovim
 export EDITOR=nvim
