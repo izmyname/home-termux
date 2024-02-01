@@ -4,7 +4,7 @@ zstyle ':completion:*' max-errors 3
 zstyle ':completion:*' menu select
 autoload -Uz compinit
 compinit -d '/data/data/com.termux/files/home/.cache/zcompdump'
-HISTFILE='/data/data/com.termux/files/home/.cache/zhistfile'
+HISTFILE='/data/data/com.termux/files/home/.cache/zsh_history'
 HISTSIZE=500
 SAVEHIST=500
 setopt autocd extendedglob notify correct
