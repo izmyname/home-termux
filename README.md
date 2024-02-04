@@ -12,3 +12,6 @@ Set phone battery usage to 'no restrictions' in android app settings for each te
 4. Restore backup archive, run: termux-restore /path/to/the/archive.tar.gz
 
 5. copy the contents of this repo
+
+
+P.S Other great androd apps: KISS Launcher, Nanji clock widget, Tempus Romanum, Cache Cleaner, Aurora Store, mpv-android, Forkgram
