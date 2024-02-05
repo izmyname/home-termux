@@ -14,6 +14,4 @@ Set phone battery usage to 'no restrictions' in android app settings for each te
 5. copy the contents of this repo
 
 
-P.S Other great android apps: KISS Launcher, Nanji clock widget, Tempus Romanum, Cache Cleaner, Aurora Store, mpv-android, Forkgram, AnySoftKeyboard (with russian pack) FutharkBoard 
-
-
+P.S Other great android apps: KISS Launcher, Nanji clock widget, Tempus Romanum, Cache Cleaner, Aurora Store, mpv-android, Forkgram, AnySoftKeyboard (with russian pack) FutharkBoard, muPDF, COReader
