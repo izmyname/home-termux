@@ -1,6 +1,7 @@
 alias ls='lsd'
 alias grep='rg'
 alias cat='bat'
+alias less='bat'
 alias du='dua'
 alias df='duf /storage/emulated'
 alias cal='cal -m'
