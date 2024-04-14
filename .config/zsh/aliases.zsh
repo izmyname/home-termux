@@ -1,9 +1,10 @@
-alias "ls=ls --color=auto"
-alias "grep=grep --color=auto"
+alias ls='lsd'
+alias grep='rg'
+alias cat='bat'
+alias du='dua'
+alias df='duf /storage/emulated'
 alias cal='cal -m'
-alias df='df -h /storage/emulated'
 alias free='free -h'
-alias du='du -h'
 alias edit=nvim
 alias n='n -ex'
 alias nnn='n -ex'
