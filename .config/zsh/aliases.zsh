@@ -9,3 +9,4 @@ alias free='free -h'
 alias edit=nvim
 alias n='n -ex'
 alias nnn='n -ex'
+alias updateall='pkg update && pkg upgrade && pkg autoclean && pkg clean'
