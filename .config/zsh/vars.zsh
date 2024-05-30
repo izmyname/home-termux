@@ -1,7 +1,9 @@
 export EDITOR=nvim
 export VISUAL=nvim
 export PYTHONSTARTUP=~/.config/python/pythonrc
-export RCLONE_PROGRESS=true                                                      export RCLONE_HUMAN_READABLE=true
+export RCLONE_PROGRESS=true 
+export RCLONE_HUMAN_READABLE=true
+export NNN_OPTS='ex'
 export NNN_BMS='d:~/storage/downloads;g:~/storage/pictures/Gallery/owner;m:~/storage/music;E:/data/data/com.termux/files/usr/etc;e:~/.config;D:~/storage/dcim;'
 export NNN_PLUG='f:fzopen;u:getplugs;i:-!|mediainfo "$nnn";l:-!bat --paging=always "$nnn"*;s:-!dua "$nnn";a:autojump;'
 export NNN_ARCHIVE="\\.(7z|a|ace|alz|arc|arj|bz|bz2|cab|cpio|deb|gz|jar|lha|lz|lz
