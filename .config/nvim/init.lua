@@ -1,5 +1,3 @@
-vim.opt.termguicolors = true
-
-vim.cmd 'colorscheme lunaperche'
-
-vim.cmd 'set number'
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
+  
